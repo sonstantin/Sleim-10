@@ -16,3 +16,7 @@ Traceback (most recent call last):
   File "C:\Users\User\AppData\Local\Programs\Python\Python37\lib\site-packages\urllib3\__init__.py", line 42, in <module>
     "urllib3 v2.0 only supports OpenSSL 1.1.1+, currently "
 ImportError: urllib3 v2.0 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'OpenSSL 1.1.0j  20 Nov 2018'. See: https://github.com/urllib3/urllib3/issues/2168
+
+Falls ihr diese Fehlermeldung habt, solltet ihr diesen Befehl ausführen:
+
+pip install urllib3==1.26.16

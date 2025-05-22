@@ -9,7 +9,7 @@ Dieser Script ist aus dem Jahr 2018 und ich lade ihn im Mai 2025 hoch! Genaues D
 Beweis:
 
 Traceback (most recent call last):
-  File "e:/Dateien vor dem 1.1.2024/Sleim 10.py", line 3, in <module>
+  File "e:/Dateien vor dem 1.1.2024 die ich bergen musste/Sleim 10.py", line 3, in <module>
     import requests
   File "C:\Users\User\AppData\Local\Programs\Python\Python37\lib\site-packages\requests\__init__.py", line 43, in <module>
     import urllib3
